@@ -7,7 +7,7 @@ Jenkins installtion - https://www.jenkins.io/doc/book/installing/linux/
 Amazon java installation -https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/amazon-linux-install.html
 
 sudo yum install java-11-amazon-corretto-devel
-
+HIHIhi
 
 Ubuntu & Terraform - https://computingforgeeks.com/how-to-install-terraform-on-ubuntu/
 
